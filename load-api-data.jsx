@@ -1,4 +1,3 @@
-// Write JavaScript here and press Ctrl+Enter to execute
 const Card = (props) => {
 	return (
      <div style={{margin: '1em'}}>
